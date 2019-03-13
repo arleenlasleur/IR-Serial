@@ -9,4 +9,5 @@ Parts used:
 - NPN transistors
 
 Placed in A0,A1 ports of Uno/Duemilanove
+
 Max baud: 1200/2400
